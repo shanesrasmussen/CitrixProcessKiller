@@ -1,2 +1,3 @@
 # CitrixProcessKiller
-Kills Running System Processes for Citrix
+C# .NET Running System Processes Killer (Citrix)
+
